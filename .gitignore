@@ -1,0 +1,17 @@
+# 运行时二进制（由各平台 build 脚本下载，不入库；GitHub 单文件上限 100MB）
+node/
+FitnessCoach-Windows/
+FitnessCoach.app/
+FitnessCoach/
+*.zip
+nwjs-tmp/
+
+# 个人数据（隐私，勿上传）
+data.json
+photos/
+*.tmp
+
+# 系统 / 编辑器
+.DS_Store
+nul
+*.genie
